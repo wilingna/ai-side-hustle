@@ -11,8 +11,7 @@ This system flips the question:
 
 👉 “Given who YOU are — how do YOU make money?”
 
-🚀 👉Live Demo (GitHub Pages)
-wilingna.github.io/ai-side-hustle/
+🚀 **🔗 直接使用：[wilingna.github.io/ai-side-hustle](https://wilingna.github.io/ai-side-hustle/)**
 
 ## 🧪 What you actually get
 
