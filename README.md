@@ -1,4 +1,4 @@
-# 🚀 AI Side Hustle OS
+# 🚀 AI Side Hustle
 
 Stop searching for side hustles.  
 👉 Start generating your own.
